@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# RET503 Praktik Terpadu Minggu 4-7: Detektor YOLO (person, cup, laptop)
+# RET503 Praktik Minggu 4-7: Detektor YOLO (person, cup, laptop)
 
 **NIM / Nama:** 4222401035 / MARIANA LUBIS
 
