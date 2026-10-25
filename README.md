@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RET503 Praktik Terpadu Minggu 4-7: Detektor YOLO (person, cup, laptop)
 
 **NIM / Nama:** 4222401035 / MARIANA LUBIS
@@ -31,3 +32,7 @@ Grafik: `perbandingan_E1_E2_E3.png`, `E1_pretrained/results.png`, `E2_scratch/re
 ## Catatan kehati-hatian
 - Dataset kecil (220 gambar; val 44, test 22). Selisih mAP yang kecil antar-eksperimen bisa hanya kebetulan.
 - Data test hanya dipakai satu kali, setelah model dipilih berdasarkan val.
+=======
+# RET503-Pj1-YOLO
+PROJEK 1
+>>>>>>> 8e66a62cf8f058b92e8656430f05698bef465f68
